@@ -1,0 +1,11 @@
+#若要开始Dependabot版本更新，您需要指定
+#要更新的包生态系统以及包清单所在的位置。
+#请参阅所有配置选项的文档：
+#https://docs.github.com/code-security/dependabot/dependabot-version-updates/configuration-options-for-the-dependabot.yml-file
+
+版本：2
+更新：
+-封装-生态系统：""#可能的值见文档
+目录："/"#包清单位置
+计划表：
+间隔：“每周”
